@@ -108,7 +108,7 @@
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-plugin-transform-es2017-object-entries": "^0.0.5",
     "cross-env": "^7.0.2",
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.0.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.0",
     "eslint": "^6.8.0",
